@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rbqam4axd3j9ws7aut8e8jzbfr6tglh3qvndhioo&rid=giphy.gif&ct=g" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rbqam4axd3j9ws7aut8e8jzbfr6tglh3qvndhioo&rid=giphy.gif&ct=g" alt="Coder GIF" max-width="300" height="100%">
 
 <h3>🚀 About Me</h3> 
 <h4> I'm Hossam Salem from Egypt. I'm a Self Thought Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing designs. For This Moment I'm junior web developer and learning increasingly. </h4>
