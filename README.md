@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Reach Rapid App<br>👯 I’m looking to collaborate on Opensource,personal projects<br>🌱 I’m currently learning Nextjs<br>💬 Ask me about react,nodejs<br>⚡ Fun fact I love Cats
+🔭 I’m currently working on  Reach Rapid App<br>👯 I’m looking to collaborate on Opensource,personal projects<br>🌱 I’m currently learning AdonisJs<br>💬 Ask me about react,nodejs,MongoDB<br>⚡ Fun fact I love Cats
 
 
 ## 🌐 Socials:
