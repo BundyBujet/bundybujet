@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Reach Rapid App<br>👯 I’m looking to collaborate on Opensource,personal projects<br>🌱 I’m currently learning AdonisJs<br>⚡ Fun fact I love Cats
+🔭 A Backend with both Nodejs and Laravel knowledge<br>👯 I’m love to collaborate on Opensource,personal projects<br>🌱 Always leaning new things<br>⚡ Fun fact I love Cats
 
 
 ## 🌐 Socials:
